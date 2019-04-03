@@ -1,0 +1,11 @@
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\bin\Debug\netcoreapp2.0\MerchantProject.deps.json
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\bin\Debug\netcoreapp2.0\MerchantProject.runtimeconfig.json
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\bin\Debug\netcoreapp2.0\MerchantProject.runtimeconfig.dev.json
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\bin\Debug\netcoreapp2.0\MerchantProject.dll
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.csprojAssemblyReference.cache
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.csproj.CoreCompileInputs.cache
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.AssemblyInfoInputs.cache
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.AssemblyInfo.cs
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\bin\Debug\netcoreapp2.0\MerchantProject.pdb
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.dll
+C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.pdb
