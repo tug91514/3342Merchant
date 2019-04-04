@@ -9,3 +9,9 @@ C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\obj\Debug\netcoreapp
 C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\bin\Debug\netcoreapp2.0\MerchantProject.pdb
 C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.dll
 C:\Users\JimZa\source\repos\MerchantProject\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.pdb
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.csprojAssemblyReference.cache
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.AssemblyInfoInputs.cache
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.AssemblyInfo.cs
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.dll
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantProject\obj\Debug\netcoreapp2.0\MerchantProject.pdb

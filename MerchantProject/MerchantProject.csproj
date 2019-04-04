@@ -16,6 +16,10 @@
   <ItemGroup>
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\source\repos\Project1\Utilities\Utilities.csproj" />
+  </ItemGroup>
   
   <PropertyGroup>
         <PublishWithAspNetCoreTargetManifest>false</PublishWithAspNetCoreTargetManifest>

@@ -1,0 +1,14 @@
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\bin\Debug\netcoreapp2.0\MerchantAPI.deps.json
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\bin\Debug\netcoreapp2.0\MerchantAPI.runtimeconfig.json
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\bin\Debug\netcoreapp2.0\MerchantAPI.runtimeconfig.dev.json
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\bin\Debug\netcoreapp2.0\MerchantAPI.dll
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\bin\Debug\netcoreapp2.0\MerchantAPI.pdb
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\bin\Debug\netcoreapp2.0\Utilities.dll
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\bin\Debug\netcoreapp2.0\Utilities.pdb
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\obj\Debug\netcoreapp2.0\MerchantAPI.csprojAssemblyReference.cache
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\obj\Debug\netcoreapp2.0\MerchantAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\obj\Debug\netcoreapp2.0\MerchantAPI.AssemblyInfoInputs.cache
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\obj\Debug\netcoreapp2.0\MerchantAPI.AssemblyInfo.cs
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\obj\Debug\netcoreapp2.0\MerchantAPI.csproj.CopyComplete
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\obj\Debug\netcoreapp2.0\MerchantAPI.dll
+C:\Users\Bobby\Documents\GitHub\3342Merchant\MerchantAPI\obj\Debug\netcoreapp2.0\MerchantAPI.pdb
